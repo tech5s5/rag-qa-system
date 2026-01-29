@@ -43,7 +43,7 @@ An architecture diagram is provided in the `diagrams/` directory.
 - **Document Parsing:** PyPDF2
 
 ---
-
+```
 ## Project Structure
 rag-qa-system/
 │
@@ -65,4 +65,4 @@ rag-qa-system/
 │
 ├── explanation.md
 ├── requirements.txt
-└── README.md
+└── README.md ```
